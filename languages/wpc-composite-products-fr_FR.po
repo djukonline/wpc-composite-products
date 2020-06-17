@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2020-06-09T04:22:26+00:00\n"
-"PO-Revision-Date: 2020-06-12 22:06+0200\n"
+"PO-Revision-Date: 2020-06-17 19:48+0200\n"
 "X-Generator: Poedit 2.3.1\n"
 "X-Domain: wpc-composite-products\n"
 "Last-Translator: \n"
@@ -43,7 +43,7 @@ msgstr "https://wpclever.net"
 
 #: wpc-composite-products.php:63 wpc-composite-products.php:859
 msgid "Select options"
-msgstr "Sélectionnez les options"
+msgstr "Sélectionner les options"
 
 #: wpc-composite-products.php:69 wpc-composite-products.php:865
 msgid "Read more"
@@ -184,7 +184,7 @@ msgid ""
 "Set a new price using a number (eg. \"49\" for $49) or a percentage (eg. "
 "\"90%\" of the original price)."
 msgstr ""
-"Fixez un nouveau prix en utilisant un nombre (par exemple \"49\" pour 49 $) "
+"Fixer un nouveau prix en utilisant un nombre (par exemple \"49\" pour 49 $) "
 "ou un pourcentage (par exemple \"90%\" du prix d'origine)."
 
 #: wpc-composite-products.php:568
@@ -312,7 +312,7 @@ msgstr "Non, cachez toujours l'alerte"
 
 #: wpc-composite-products.php:725
 msgid "Show the inline alert under the components."
-msgstr "Affichez l'alerte en ligne sous les composants."
+msgstr "Afficher l'alerte en ligne sous les composants."
 
 #: wpc-composite-products.php:729
 msgid "Show quantity"
@@ -320,7 +320,7 @@ msgstr "Afficher quantité"
 
 #: wpc-composite-products.php:735
 msgid "Show the quantity before product name."
-msgstr "Affiche la quantité avant le nom du produit."
+msgstr "Afficher la quantité avant le nom du produit."
 
 #: wpc-composite-products.php:739
 msgid "Show image"
@@ -345,11 +345,11 @@ msgstr "Non merci. Je n'ai pas besoin de ça"
 #: wpc-composite-products.php:764
 msgid "Text to display for showing a \"Don't choose any product\" option."
 msgstr ""
-"Texte à afficher pour afficher une option \"Ne choisissez aucun produit\"."
+"Texte à afficher pour afficher une option \"Ne pas choisir un produit\"."
 
 #: wpc-composite-products.php:768
 msgid "Show \"Option none\" for required component"
-msgstr "Afficher \"Option aucune\" pour le composant requis"
+msgstr "Afficher \"Aucune option\" pour le composant requis"
 
 #: wpc-composite-products.php:777
 msgid "Total text"
@@ -370,11 +370,11 @@ msgstr ""
 
 #: wpc-composite-products.php:788
 msgid "Saved text"
-msgstr "Texte de la remsie"
+msgstr "Texte de la remise"
 
 #: wpc-composite-products.php:792 wpc-composite-products.php:1020
 msgid "(saved [d])"
-msgstr "(éconmisé [d])"
+msgstr "(économisé [d])"
 
 #: wpc-composite-products.php:799
 msgid "Change price"
@@ -382,7 +382,7 @@ msgstr "Changer le prix"
 
 #: wpc-composite-products.php:808
 msgid "Yes, custom selector"
-msgstr "Oui, personnalisé le sélecteur"
+msgstr "Oui, personnaliser le sélecteur"
 
 #: wpc-composite-products.php:819
 msgid ""
@@ -392,7 +392,7 @@ msgid ""
 "change when this option is enabled, please contact us and we can help you "
 "adjust the JS file. "
 msgstr ""
-"Modifiez le prix du produit principal en fonction des variations de prix de "
+"Modifier le prix du produit principal en fonction des variations de prix de "
 "certaines variations d'un produit groupé. Cela utilise Javascript pour "
 "modifier le prix du produit principal en fonction du code HTML du thème. Si "
 "le prix ne change pas lorsque cette option est activée, veuillez nous "
@@ -404,7 +404,7 @@ msgstr "Lien vers un produit individuel"
 
 #: wpc-composite-products.php:829
 msgid "Yes, open product page"
-msgstr "Oui, ouvrez la page du produit"
+msgstr "Oui, ouvrir la page du produit"
 
 #: wpc-composite-products.php:833
 msgid "Yes, open quick view popup"
@@ -412,7 +412,7 @@ msgstr "Oui, ouvrir la fenêtre de visualisation rapide"
 
 #: wpc-composite-products.php:840
 msgid "Add a link to the target individual product below this selection."
-msgstr "Ajoutez un lien vers le produit individuel cible sous cette sélection."
+msgstr "Ajouter un lien vers le produit individuel cible sous cette sélection."
 
 #: wpc-composite-products.php:848
 msgid "\"Add to Cart\" button labels"
@@ -440,7 +440,7 @@ msgstr "Panier & Checkout"
 
 #: wpc-composite-products.php:885
 msgid "Coupon restrictions"
-msgstr "Coupon restrictions"
+msgstr "Restrictions coupon "
 
 #: wpc-composite-products.php:894
 msgid "Exclude composite"
@@ -456,7 +456,7 @@ msgstr "Exclure les deux composition et composants produits"
 
 #: wpc-composite-products.php:906
 msgid "Choose products you want to exclude from coupons."
-msgstr "Choisissez les produits que vous souhaitez exclure des coupons."
+msgstr "Choisir les produits que vous souhaitez exclure des coupons."
 
 #: wpc-composite-products.php:911
 msgid "Cart content count"
@@ -472,7 +472,7 @@ msgstr "Produits composants uniquement"
 
 #: wpc-composite-products.php:924
 msgid "Both composite and component products"
-msgstr "les deux composition et composants produits"
+msgstr "Les deux composition et composants produits"
 
 #: wpc-composite-products.php:930
 msgid "Hide composite name before component products"
